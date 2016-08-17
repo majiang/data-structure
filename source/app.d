@@ -1,4 +1,5 @@
 import std.stdio;
+import datastructure;
 
 void main()
 {
